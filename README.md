@@ -1,3 +1,5 @@
+This repo is Leopotam ecslite project and multiple necessary extensions. Leopotam delete his repo and change license to MIT-red, but you can use this repo without any restrictions.
+
 # LeoEcsLite - Lightweight C# Entity Component System framework
 Performance, zero/small memory allocations/footprint, no dependencies on any game engine - main goals of this project.
 
