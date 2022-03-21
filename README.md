@@ -287,6 +287,7 @@ class EcsStartup {
 * [Extended systems](https://github.com/odingamesdev/odingamesforks/tree/master/ecs/com.leopotam.ecslite.extendedsystems)
 * [Threads support](https://github.com/odingamesdev/odingamesforks/tree/master/ecs/com.leopotam.ecslite.threads.unity)
 * [Unity editor integration](https://github.com/odingamesdev/odingamesforks/tree/master/ecs/com.leopotam.ecslite.unityeditor)
+* [Unity Jobs support](https://github.com/odingamesdev/native-ecslite)
 
 # License
 The software is released under the terms of the [MIT license](./LICENSE.md).
